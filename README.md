@@ -12,4 +12,4 @@ Dataset:
 Scikit-Learn Digits Dataset
 
 Results:
-Test Accuracy: XX%
+Test Accuracy: 96.39%
